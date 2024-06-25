@@ -1,0 +1,177 @@
+title: Crea tu futuro
+description: Crea tu propia empresa, asesoría legal.
+
+hero:
+  title: Crea tu Propia Empresa
+  description: Asesoría legal confiable y profesional.
+  links:
+    - label: Nuestros Servicios
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#features'
+      size: xl
+
+logos:
+  title: Confianza de los mejores
+  icons:
+    - i-simple-icons-amazonaws
+    - i-simple-icons-heroku
+    - i-simple-icons-netlify
+    - i-simple-icons-vercel
+    - i-simple-icons-cloudflare
+
+features:
+  headline: Servicios
+  title: ¿Por qué elegir nuestros servicios?
+  description: Ofrecemos servicios de calidad, con años de experiencia y decenas de clientes satisfechos.
+  items:
+    - title: Asesoría Personalizada
+      description: Sabemos que cada cliente es único y requiere servicios exclusivos.
+      icon: i-heroicons-cog
+    - title: Confianza
+      description: La confianza es la base de nuestro trabajo, garantizamos un trabajo de calidad basado en la experiencia de nuestros clientes.
+      icon: i-heroicons-check
+    - title: Seguridad
+      description: Entregamos un servicio que garantiza la confidencialidad con nuestros clientes, protegiendo la información empresarial.
+      icon: i-heroicons-lock-closed
+    - title: Rapidez
+      description: Ofrecemos un servicio rápido y eficiente para que nuestros clientes puedan disfrutar de su empresa lo antes posible.
+      icon: i-heroicons-rocket-launch
+    - title: Precios Accesibles
+      description: Entregamos servicios de calidad a un precio accesible para pymes y startups.
+      icon: i-heroicons-currency-dollar
+    - title: Escalable
+      description: Nuestros servicios son escalables en el tiempo, permitiendo el crecimiento continuo de tu negocio.
+      icon: i-heroicons-chart-bar
+
+pricing:
+  headline: Planes de Servicio
+  title: Planes adaptados a tus necesidades
+  plans:
+    - title: Básico
+      description: Plan básico para individuos.
+      price: $9.99/mes
+      align: top
+      button:
+        label: Empezar
+        color: gray
+      features:
+        - 1 GB de Almacenamiento
+        - 1 Cuenta de Email
+        - 1 Dominio
+        - 1 Sitio Web
+        - 1 Base de Datos
+        - 1 Certificado SSL
+        - Soporte por Ticket
+    - title: Estándar
+      description: Plan estándar para pequeños equipos.
+      price: $99.990
+      highlight: true
+      scale: true
+      align: top
+      button:
+        label: Empezar
+      features:
+        - Redacción de escritura
+        - Obtención Rut Empresa
+        - Inicio de actividades SII
+        - Cédula E-RUT empresa
+        - Verificación de actividades SII
+        - Asesoría Patente Comercial
+        - Asesoría Registro Nacional de PYMES
+        - Asesoría Proveedores del estado
+    - title: Premium
+      description: Plan premium para grandes equipos.
+      price: $29.99/mes
+      align: top
+      button:
+        label: Empezar
+        color: gray
+      features:
+        - 100 GB de Almacenamiento
+        - 100 Cuentas de Email
+        - 100 Dominios
+        - 100 Sitios Web
+        - 100 Bases de Datos
+        - 100 Certificados SSL
+        - Soporte por Ticket
+
+testimonials:
+  headline: Testimonios
+  title: Experiencias de nuestros clientes
+  description: Opiniones de clientes basadas en su experiencia con nuestros servicios.
+  items:
+    - quote: "¡Excelente servicio! Obtuvimos asesoría precisa y rápida para lanzar nuestra startup. ¡Altamente recomendados!"
+      author:
+        name: Rose Roberson
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=1
+          loading: lazy
+    - quote: "La confianza que nos brindaron fue invaluable. Nos sentimos seguros en cada paso del proceso."
+      author:
+        name: Chace Rodgers
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=7
+          loading: lazy
+    - quote: "Servicio impecable y seguro. Lograron resolver nuestras dudas y necesidades de forma efectiva."
+      author:
+        name: Cornelius Sheppard
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=3
+          loading: lazy
+    - quote: "Rápidos y profesionales. Nos ayudaron a iniciar nuestro negocio de manera ágil y eficaz."
+      author:
+        name: Destinee Woods
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=5
+          loading: lazy
+    - quote: "¡Muy satisfechos con su servicio! Nos guiaron en cada etapa de la creación de nuestra empresa."
+      author:
+        name: Kaleb Mccormick
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=8
+          loading: lazy
+    - quote: "Atención personalizada y resultados excelentes. Recomendamos ampliamente sus servicios."
+      author:
+        name: Jazmin Mccall
+        description: CEO en Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=9
+          loading: lazy
+
+cta:
+  title: ¡Comencemos a trabajar hoy mismo!
+  description: Contacta con nosotros para iniciar el proceso de creación de tu empresa.
+
+links:
+  - label: Formulario de Contacto
+    size: xl
+
+faq:
+  title: Preguntas Frecuentes
+  description: Respuestas a las preguntas más comunes de nuestros clientes.
+  items:
+    - label: ¿Es un servicio seguro?
+      content: Nuestro servicio está diseñado para garantizar la seguridad y confidencialidad de tus datos.
+      defaultOpen: true
+    - label: ¿Cómo puedo cancelar mi suscripción?
+      content: Puedes cancelar tu suscripción contactando con nuestro equipo de soporte.
+    - label: ¿Cómo funciona la prueba gratuita?
+      content: Ofrecemos una prueba gratuita para que puedas conocer nuestros servicios sin compromiso.
+    - label: ¿Puedo cambiar de plan más adelante?
+      content: Sí, puedes cambiar tu plan en cualquier momento según tus necesidades empresariales.
+    - label: ¿Ofrecen reembolsos?
+      content: Sí, ofrecemos reembolsos bajo ciertas condiciones. Contáctanos para más detalles.
+    - label: ¿Ofrecen soporte técnico?
+      content: Sí, tenemos un equipo de soporte disponible para resolver cualquier consulta que tengas.
+
+whatsapp:
+  number: '56931766391'  # Tu número de WhatsApp
+  message: 'Hola! Quisiera más información sobre los servicios para la creación de empresas.'  # Mensaje predeterminado
+
+
